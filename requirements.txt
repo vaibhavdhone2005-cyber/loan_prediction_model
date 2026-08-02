@@ -1,5 +1,6 @@
 Flask
+gunicorn
 xgboost
 scikit-learn
 numpy
-gunicorn
+jinja2
