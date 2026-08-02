@@ -1,4 +1,6 @@
-streamlit
-numpy
+Flask
+gunicorn
 xgboost
 scikit-learn
+numpy
+pandas
